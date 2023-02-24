@@ -5,3 +5,10 @@ Repositório criado na aula de PI.
   
 - pão
 - macarrão
+- molho de tomate
+- carne moída
+- batata
+- sorvete
+- pizza
+- coca-cola
+- mortadela
